@@ -5,7 +5,9 @@ To make this script execute with a browser create the following file in the text
 
 ===============
 @echo
+
 start "" "<i>path to PyKeyLogger</i>"
+
 start "" "<i>path to favorite browser</i>"
 
 ===============
